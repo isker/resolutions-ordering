@@ -2,5 +2,9 @@
   "name": "resolutions-ordering",
   "version": "1.0.0",
   "license": "MIT",
-  "packageManager": "yarn@3.2.0"
+  "packageManager": "yarn@3.2.0",
+  "dependencies": {
+    "ajv": "*",
+    "eslint": "8.13.0"
+  }
 }
